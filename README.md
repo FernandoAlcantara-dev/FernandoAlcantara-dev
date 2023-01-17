@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white0)](https://www.linkedin.com/in/fernando-alcantara-2115b4262/)
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoAlcantara-dev&show_icons=true&theme=codeSTACKr)
+![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoAlcantara-dev&show_icons=true&theme=radical)
 
 ## Tecnologias que eu estudo/trabalho!
 
