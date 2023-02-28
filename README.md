@@ -4,7 +4,7 @@
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoAlcantara-dev&show_icons=true&theme=radical)
 
-## Tecnologias que eu estudo/trabalho!
+## Tecnologias que eu estudo/trabalho:
 
 <div style="display: inline_block"><br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,6 +21,6 @@
 
 </div><br>
 
-Desde pequeno sempre fui apaixonado por tecnologia, por isso atualmente estou explorando e aprendendo o máximo que puder para por minha paixão em prática!
+Desde pequeno sempre fui apaixonado por tecnologia, por isso atualmente estou explorando e aprendendo o máximo que puder para por minha paixão em prática.
 
 #### Fique à vontade para explorar meus projetos!
